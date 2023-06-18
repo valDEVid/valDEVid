@@ -47,7 +47,7 @@ Soy una persona que siempre busca mejorar mis conocimientos y habilidades. Me gu
 ## *Teconlogías*
 
 
->### *Conozco bien*
+>### Conozco bien
 >
 >>  ![Prueba](./static/Python1.svg)
     ![Prueba](./static/FastAPI1.png)
@@ -59,7 +59,7 @@ Soy una persona que siempre busca mejorar mis conocimientos y habilidades. Me gu
 
 <br/><br/>
 
->### *Se las bases de*
+>### Se las bases de
 >
 >>  ![Prueba](./static/Flask.png)
     ![Prueba](./static/NodeJS1.png)
