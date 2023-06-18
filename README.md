@@ -21,22 +21,30 @@
 
 <br/><br/>
 
-### *About me*
+
+## *About me*
 
 Soy David Valverde Locubiche, un estudiante de sistemas microinformáticos y redes en Almería. Desde que descubrí mi pasión por la programación, me he dedicado a formarme por mi cuenta en el ámbito del backend, complementando así los conocimientos adquiridos en el grado medio. Me considero una persona curiosa, creativa y con ganas de aprender y mejorar.
+
+
 <br/><br/>
+
 
 Soy una persona que siempre busca mejorar mis conocimientos y habilidades. Me gusta investigar y aprender por mi cuenta, pero también sé escuchar y colaborar con los demás. No me asustan los retos ni las situaciones de estrés, al contrario, me motivan a dar lo mejor de mí. Además, estoy abierto a recibir feedback y sugerencias para seguir creciendo profesionalmente.
 
+
 <br/><br/>
 
-### *Mis proyectos*
+
+## *Mis proyectos*
 |[![Prueba](./static/reviewAPI.png)](https://github.com/valDEVid/reviewAPI)|
 |---|
 
+
 <br/><br/>
-___
-<br/><br/>
+
+
+## *Teconlogías*
 
 
 >### *Conozco bien*
@@ -48,6 +56,8 @@ ___
 >>  ![Prueba](./static/si.svg)
     ![Prueba](./static/MongoDB.png)
     ![Prueba](./static/sqlAlchemy.png)
+
+<br/><br/>
 
 >### *Se las bases de*
 >
