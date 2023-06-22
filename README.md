@@ -1,7 +1,7 @@
-## Bienvenido, mi nombre es David 👋.
+## Welcome!. My name is David👋.
 
 
-####  **Soy estudiante de informática y Backend Python Developer**
+####  **IT student & Backend Python Developer**
     
   
 ![Banner](./static/Banner.png)
@@ -24,29 +24,29 @@
 
 ## *About me*
 
-Soy David Valverde Locubiche, un estudiante de sistemas microinformáticos y redes en Almería. Desde que descubrí mi pasión por la programación, me he dedicado a formarme por mi cuenta en el ámbito del backend, complementando así los conocimientos adquiridos en el grado medio. Me considero una persona curiosa, creativa y con ganas de aprender y mejorar.
+I am David Valverde Locubiche, a student of microcomputer systems and networks in Almería. Since I discovered my passion for programming, I have dedicated myself to self-training in the field of backend, complementing the knowledge acquired in the intermediate degree. I consider myself a curious, creative person with a desire to learn and improve.
 
 
 <br/><br/>
 
 
-Soy una persona que siempre busca mejorar mis conocimientos y habilidades. Me gusta investigar y aprender por mi cuenta, pero también sé escuchar y colaborar con los demás. No me asustan los retos ni las situaciones de estrés, al contrario, me motivan a dar lo mejor de mí. Además, estoy abierto a recibir feedback y sugerencias para seguir creciendo profesionalmente.
+I am a person who always seeks to improve my knowledge and skills. I like to research and learn on my own, but I also know how to listen and collaborate with others. I am not afraid of challenges or stressful situations, on the contrary, they motivate me to give my best. In addition, I am open to receiving feedback and suggestions to continue growing professionally.
 
 
 <br/><br/>
 
 
-## *Mis proyectos*
+## *My proyects*
 |[![FileConverser](./static/reviewAPI.png)](https://github.com/valDEVid/reviewAPI)| [![FileConverser](./static/FileConverserLogo.png)](https://github.com/valDEVid/FileConverter)
 |---|---|
 
 <br/><br/>
 
 
-## *Teconlogías*
+## *Teconlogies*
 
 
->### Conozco bien
+>### I've knowledge of
 >
 >>  ![Python](./static/Python1.svg)
     ![FastAPI](./static/FastAPI1.png)
@@ -58,7 +58,7 @@ Soy una persona que siempre busca mejorar mis conocimientos y habilidades. Me gu
 
 <br/><br/>
 
->### Se las bases de
+>### I've basics of
 >
 >>  ![Flask](./static/Flask.png)
     ![NodeJS](./static/NodeJS1.png)
