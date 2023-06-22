@@ -24,13 +24,13 @@
 
 ## *About me*
 
-I am David Valverde Locubiche, a student of microcomputer systems and networks in Almería. Since I discovered my passion for programming, I have dedicated myself to self-training in the field of backend, complementing the knowledge acquired in the intermediate degree. I consider myself a curious, creative person with a desire to learn and improve.
+I'm David Valverde Locubiche, a student of microcomputer systems and networks in Almería. Since I discovered my passion for programming, I've dedicated myself to self-training in the field of backend, complementing the knowledge acquired in the intermediate degree. I consider myself a curious, creative person with a desire to learn and improve.
 
 
 <br/><br/>
 
 
-I am a person who always seeks to improve my knowledge and skills. I like to research and learn on my own, but I also know how to listen and collaborate with others. I am not afraid of challenges or stressful situations, on the contrary, they motivate me to give my best. In addition, I am open to receiving feedback and suggestions to continue growing professionally.
+I'm a person who always seeks to improve my knowledge and skills. I like to research and learn on my own, but I also know how to listen and collaborate with others. I'm not afraid of challenges or stressful situations, on the contrary, they motivate me to give my best. In addition, I am open to receiving feedback and suggestions to continue growing professionally.
 
 
 <br/><br/>
