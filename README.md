@@ -37,9 +37,8 @@ Soy una persona que siempre busca mejorar mis conocimientos y habilidades. Me gu
 
 
 ## *Mis proyectos*
-|[![Prueba](./static/reviewAPI.png)](https://github.com/valDEVid/reviewAPI)|
-|---|
-
+|[![FileConverser](./static/reviewAPI.png)](https://github.com/valDEVid/reviewAPI)| [![FileConverser](./static/FileConverserLogo.png)](https://github.com/valDEVid/FileConverter)
+|---|---|
 
 <br/><br/>
 
@@ -49,19 +48,19 @@ Soy una persona que siempre busca mejorar mis conocimientos y habilidades. Me gu
 
 >### Conozco bien
 >
->>  ![Prueba](./static/Python1.svg)
-    ![Prueba](./static/FastAPI1.png)
-    ![Prueba](./static/GraphQL.png)
+>>  ![Python](./static/Python1.svg)
+    ![FastAPI](./static/FastAPI1.png)
+    ![GraphQL](./static/GraphQL.png)
 >
->>  ![Prueba](./static/si.svg)
-    ![Prueba](./static/MongoDB.png)
-    ![Prueba](./static/sqlAlchemy.png)
+>>  ![MySQL](./static/si.svg)
+    ![MongoDB](./static/MongoDB.png)
+    ![sqlAlchemy](./static/sqlAlchemy.png)
 
 <br/><br/>
 
 >### Se las bases de
 >
->>  ![Prueba](./static/Flask.png)
-    ![Prueba](./static/NodeJS1.png)
-    ![Prueba](./static/React1.png)
-    ![Prueba](./static/HTML5.png)
+>>  ![Flask](./static/Flask.png)
+    ![NodeJS](./static/NodeJS1.png)
+    ![React](./static/React1.png)
+    ![HTML](./static/HTML5.png)
