@@ -24,7 +24,7 @@
 
 ## *About me*
 
-I'm David Valverde Locubiche, a student of microcomputer systems and networks in Almería. Since I discovered my passion for programming, I've dedicated myself to self-training in the field of backend, complementing the knowledge acquired in the intermediate degree. I consider myself a curious, creative person with a desire to learn and improve.
+I'm David Valverde Locubiche, a student of microcomputer systems and networks in Almería. Since I discovered my passion for programming, I've dedicated myself to self-training in the field of pentesting, complementing the knowledge acquired in the intermediate degree. I consider myself a curious, creative person with a desire to learn and improve.
 
 
 <br/><br/>
@@ -36,7 +36,7 @@ I'm a person who always seeks to improve my knowledge and skills. I like to rese
 <br/><br/>
 
 
-## *My proyects*
+## *Some of my proyects*
 |[![FileConverser](./static/reviewAPI.png)](https://github.com/valDEVid/reviewAPI)| [![FileConverser](./static/FileConverserLogo.png)](https://github.com/valDEVid/FileConverter)
 |---|---|
 
