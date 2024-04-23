@@ -9,8 +9,8 @@
     <a href="mailto:daval.locub@gmail.com">
         <img src="./static/gmail.svg" alt="Gmail">
     </a>
-    <a href="https://www.linkedin.com/in/
-    david-valverde-locubiche-696239278">
+    <a href="[https://www.linkedin.com/in/
+    david-valverde-locubiche-696239278](https://www.linkedin.com/in/valdevid/)">
         <img src="./static/linkedin.svg" alt="LInkedin">
     </a>
 </p>
